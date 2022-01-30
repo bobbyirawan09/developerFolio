@@ -30,7 +30,7 @@ export default function Blogs() {
             }
           })
           .then(response => {
-            setMediumBlogsFunction(response.items);
+            setMediumBlogsFunction(response);
           })
           .catch(function (error) {
             console.error(

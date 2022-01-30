@@ -6,7 +6,6 @@ import StyleContext from "../../contexts/StyleContext";
 import {
   greeting,
   workExperiences,
-  skillsSection,
   openSource,
   blogSection,
 } from "../../portfolio";
