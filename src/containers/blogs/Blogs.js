@@ -30,6 +30,7 @@ export default function Blogs() {
             }
           })
           .then(response => {
+            console.log(`${response.status} and ${response.feed.url}`)
             setMediumBlogsFunction(response);
           })
           .catch(function (error) {
