@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a67391352afc15d77301deefecc17bf",
+    "revision": "5a88574dab1a1ca96291fbd0c044e1d2",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "f9085f61280e747125c0",
+    "revision": "c9d34f66fdad502646f3",
     "url": "/developerFolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "a690cdd4102100c39379",
+    "revision": "ad167a5fbf32656f01a6",
     "url": "/developerFolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "27ee232501572bfef4f4",
-    "url": "/developerFolio/static/css/main.6bd5d463.chunk.css"
+    "revision": "be5787d22852825f5f24",
+    "url": "/developerFolio/static/css/main.42191e1b.chunk.css"
   },
   {
-    "revision": "d06cd48ae75d4bea4028",
-    "url": "/developerFolio/static/js/2.732c9503.chunk.js"
+    "revision": "e7386ce2fe2f5b22e2f7",
+    "url": "/developerFolio/static/js/2.1dfc0f8c.chunk.js"
   },
   {
-    "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/developerFolio/static/js/2.732c9503.chunk.js.LICENSE.txt"
+    "revision": "b9941b26ce7f87a25d1a3bc0d5ae97bc",
+    "url": "/developerFolio/static/js/2.1dfc0f8c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9085f61280e747125c0",
-    "url": "/developerFolio/static/js/3.92e1f070.chunk.js"
+    "revision": "c9d34f66fdad502646f3",
+    "url": "/developerFolio/static/js/3.5b220511.chunk.js"
   },
   {
-    "revision": "a690cdd4102100c39379",
-    "url": "/developerFolio/static/js/4.9c4027eb.chunk.js"
+    "revision": "ad167a5fbf32656f01a6",
+    "url": "/developerFolio/static/js/4.ad52a138.chunk.js"
   },
   {
-    "revision": "27ee232501572bfef4f4",
-    "url": "/developerFolio/static/js/main.a3b4adf6.chunk.js"
+    "revision": "be5787d22852825f5f24",
+    "url": "/developerFolio/static/js/main.dabc968f.chunk.js"
   },
   {
-    "revision": "84063c4c49bdc808f468",
-    "url": "/developerFolio/static/js/runtime-main.bc57393a.js"
+    "revision": "5c828b242e29e47dd162",
+    "url": "/developerFolio/static/js/runtime-main.5d167fcd.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -98,9 +98,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3b758ef56d398145542e137daa28e392",
     "url": "/developerFolio/static/media/stanfordLogo.3b758ef5.png"
-  },
-  {
-    "revision": "13780cdd0144cacdef25486e2c2503f8",
-    "url": "/developerFolio/static/media/talksCardBack.13780cdd.svg"
   }
 ]);
