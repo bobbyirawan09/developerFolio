@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e3d51d5d91f4c63642609fa747fd12c",
+    "revision": "fbe26b5050e096e0bfb2180b4b74c5e3",
     "url": "/index.html"
   },
   {
-    "revision": "b02fa01f9e2e464a848c",
+    "revision": "f9085f61280e747125c0",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "9a1a6e212e46b93378b4",
+    "revision": "a690cdd4102100c39379",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "951777af48006c210c67",
-    "url": "/static/css/main.66262938.chunk.css"
+    "revision": "9e07044cc585ad931833",
+    "url": "/static/css/main.4227c16b.chunk.css"
   },
   {
-    "revision": "6099da15d7ef139536ef",
-    "url": "/static/js/2.3b89ba20.chunk.js"
+    "revision": "d06cd48ae75d4bea4028",
+    "url": "/static/js/2.732c9503.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.3b89ba20.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.732c9503.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b02fa01f9e2e464a848c",
-    "url": "/static/js/3.6d3a6ac5.chunk.js"
+    "revision": "f9085f61280e747125c0",
+    "url": "/static/js/3.92e1f070.chunk.js"
   },
   {
-    "revision": "9a1a6e212e46b93378b4",
-    "url": "/static/js/4.aa2ec175.chunk.js"
+    "revision": "a690cdd4102100c39379",
+    "url": "/static/js/4.9c4027eb.chunk.js"
   },
   {
-    "revision": "951777af48006c210c67",
-    "url": "/static/js/main.3c1b328d.chunk.js"
+    "revision": "9e07044cc585ad931833",
+    "url": "/static/js/main.9777457f.chunk.js"
   },
   {
-    "revision": "31e86355749aafe4c8bd",
-    "url": "/static/js/runtime-main.216c9345.js"
+    "revision": "ba17d58082d10b3b799c",
+    "url": "/static/js/runtime-main.3b10d0f3.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -94,10 +94,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
     "url": "/static/media/saayaHealthLogo.25018d29.webp"
-  },
-  {
-    "revision": "3440939881da8339d1597e8d77cdf850",
-    "url": "/static/media/skill.34409398.svg"
   },
   {
     "revision": "3b758ef56d398145542e137daa28e392",
