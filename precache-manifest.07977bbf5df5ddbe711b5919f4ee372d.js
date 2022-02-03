@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05490f25797467542f068437ce474e07",
+    "revision": "661dcad0ab839ab76cc1dc71bc7a2113",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "c3ddbfbc83b6fcac5ae5",
+    "revision": "e5e31da5c96404ffd124",
     "url": "/developerFolio/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "80a69d332dbaf8ab5626",
+    "revision": "f901edb911eeb2860647",
     "url": "/developerFolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "319f001640f3bbc3adbc",
+    "revision": "eead6ba22c398d2d689e",
     "url": "/developerFolio/static/css/main.42191e1b.chunk.css"
   },
   {
-    "revision": "59382f0dad7b2acb2359",
-    "url": "/developerFolio/static/js/2.4a5472bf.chunk.js"
+    "revision": "1c418daa9b9398221ba7",
+    "url": "/developerFolio/static/js/2.22963c33.chunk.js"
   },
   {
     "revision": "b9941b26ce7f87a25d1a3bc0d5ae97bc",
-    "url": "/developerFolio/static/js/2.4a5472bf.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.22963c33.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3ddbfbc83b6fcac5ae5",
-    "url": "/developerFolio/static/js/3.f5e4d1eb.chunk.js"
+    "revision": "e5e31da5c96404ffd124",
+    "url": "/developerFolio/static/js/3.94cccddc.chunk.js"
   },
   {
-    "revision": "80a69d332dbaf8ab5626",
-    "url": "/developerFolio/static/js/4.c30115c6.chunk.js"
+    "revision": "f901edb911eeb2860647",
+    "url": "/developerFolio/static/js/4.db485a75.chunk.js"
   },
   {
-    "revision": "319f001640f3bbc3adbc",
-    "url": "/developerFolio/static/js/main.5ad0bcd4.chunk.js"
+    "revision": "eead6ba22c398d2d689e",
+    "url": "/developerFolio/static/js/main.108ff67f.chunk.js"
   },
   {
-    "revision": "c06a1fd630d914e7bd8f",
-    "url": "/developerFolio/static/js/runtime-main.d980d1c8.js"
+    "revision": "38987e02358fe2738eaf",
+    "url": "/developerFolio/static/js/runtime-main.24ef7a2d.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/developerFolio/static/media/airbnbLogo.c59720d6.png"
+    "revision": "c9c2aa030f7878d6e0034c83020db957",
+    "url": "/developerFolio/static/media/bibitLogo.c9c2aa03.png"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",
@@ -58,10 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/developerFolio/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/developerFolio/static/media/facebookLogo.8ddf76a1.png"
   },
   {
     "revision": "35ef5e915631be2c31ccdff55b53db29",
@@ -76,15 +72,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/nextuLogo.829ad0a1.webp"
   },
   {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/developerFolio/static/media/quoraLogo.4b2938b9.png"
-  },
-  {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
     "url": "/developerFolio/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3b758ef56d398145542e137daa28e392",
     "url": "/developerFolio/static/media/stanfordLogo.3b758ef5.png"
+  },
+  {
+    "revision": "62af58542874b4fa0582b61e5d9b47bd",
+    "url": "/developerFolio/static/media/stockbitLogo.62af5854.jpeg"
   }
 ]);
