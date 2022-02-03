@@ -141,29 +141,45 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Fulltime - Sr. Android Engineer",
+      company: "Stockbit",
+      companylogo: require("./assets/images/stockbitLogo.jpeg"),
+      date: "July 2021 – Present",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Create a Diet program for our project that had legacy code",
+        "Looking for the best Android Developer to join our awesome team"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Freelance - Android Developer",
+      company: "Logol",
+      companylogo: require("./assets/images/logolLogo.png"),
+      date: "May 2020 – Present",
+      descBullets: [
+        "Redesign the whole application. All pages in Logol driver application are changed to the new design",
+        "Maintaining the application. Every update for the app both bug fixing and business requirement purposes"
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Fulltime - Android Developer",
+      company: "Bibit",
+      companylogo: require("./assets/images/bibitLogo.png"),
+      date: "Sept 2020 – July 2021",
+      descBullets: [
+        "Developed biometric login feature on Bibit application",
+        "Increase code coverage from 0% to 62% and counting",
+        "Developed CI/CD in Bibit Android project"
+      ]
+    },
+    {
+      role: "Fulltime - Android Developer",
+      company: "Pegipegi",
+      companylogo: require("./assets/images/pegipegiLogo.png"),
+      date: "Sept 2019 – April 2020",
+      descBullets: [
+        "Help in implementing loading animation on the flight search list using Lottie",
+        "In charge of developing flight buy baggage feature"
+      ]
     }
   ]
 };
