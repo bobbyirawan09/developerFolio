@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b95ce2a92e687c312c8b917d43c658a1",
+    "revision": "d96e8c75acdac6005e8baf49cf8ff60d",
     "url": "/developerFolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "f85b44b40eb0beb31fbd",
+    "revision": "c7bbd23a984074143ad0",
     "url": "/developerFolio/static/css/main.42191e1b.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/js/4.56f138eb.chunk.js"
   },
   {
-    "revision": "f85b44b40eb0beb31fbd",
-    "url": "/developerFolio/static/js/main.14dbc710.chunk.js"
+    "revision": "c7bbd23a984074143ad0",
+    "url": "/developerFolio/static/js/main.54e62528.chunk.js"
   },
   {
     "revision": "6c39c5f627f998bc9c0b",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/pcuLogo.638d93ec.png"
   },
   {
-    "revision": "62af58542874b4fa0582b61e5d9b47bd",
-    "url": "/developerFolio/static/media/stockbitLogo.62af5854.jpeg"
+    "revision": "8dd3b416fe1c424e8add8c6be756dcba",
+    "url": "/developerFolio/static/media/stockbitLogo.8dd3b416.jpeg"
   },
   {
     "revision": "21f4d41833190dd8804b910f29fc6192",
