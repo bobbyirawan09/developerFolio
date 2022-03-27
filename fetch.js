@@ -17,15 +17,15 @@ const ERR = {
     "The request to Medium didn't succeed. Check if Medium username in your .env file is correct."
 };
 if (USE_GITHUB_DATA === "true") {
-  if (REACT_APP_GITHUB_USERNAME === undefined) {
+  if (GITHUB_USERNAME === undefined) {
     throw new Error(ERR.noUserName);
   }
 
-  console.log(`Fetching profile data for ${REACT_APP_GITHUB_USERNAME}`);
+  console.log(`Fetching profile data for ${GITHUB_USERNAME}`);
   var data = JSON.stringify({
     query: `
 {
-  user(login:"${REACT_APP_GITHUB_USERNAME}") { 
+  user(login:"${GITHUB_USERNAME}") { 
     name
     bio
     isHireable
