@@ -30,8 +30,7 @@ export default function Blogs() {
             }
           })
           .then(response => {
-            console.log(`${response.status} and ${response.feed.url}`)
-            setMediumBlogsFunction(response);
+            setMediumBlogsFunction(response.items);
           })
           .catch(function (error) {
             console.error(
@@ -84,7 +83,7 @@ export default function Blogs() {
                       key={i}
                       isDark={isDark}
                       blog={{
-                        url: blog.url,
+                        url: blog.link,
                         title: blog.title,
                         description: extractTextContent(blog.content)
                       }}

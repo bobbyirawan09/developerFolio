@@ -3,6 +3,15 @@
 // To change portfolio colors globally go to the  _globalColor.scss file
 
 import emoji from "react-easy-emoji";
+import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your file name for custom animation
+
+// Splash Screen
+
+const splashScreen = {
+  enabled: true, // set false to disable splash screen
+  animation: splashAnimation,
+  duration: 2000 // Set animation duration as per your animation
+};
 
 // Summary And Greeting Section
 
@@ -53,20 +62,56 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "Android development",
-      fontAwesomeClassname: "fab fa-mobile-android"
+      skillName: "html-5",
+      fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "Java",
-      fontAwesomeClassname: "fab fa-java"
+      skillName: "css3",
+      fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "Swift",
+      skillName: "sass",
+      fontAwesomeClassname: "fab fa-sass"
+    },
+    {
+      skillName: "JavaScript",
+      fontAwesomeClassname: "fab fa-js"
+    },
+    {
+      skillName: "reactjs",
+      fontAwesomeClassname: "fab fa-react"
+    },
+    {
+      skillName: "nodejs",
+      fontAwesomeClassname: "fab fa-node"
+    },
+    {
+      skillName: "swift",
       fontAwesomeClassname: "fab fa-swift"
     },
     {
-      skillName: "Firebase",
+      skillName: "npm",
+      fontAwesomeClassname: "fab fa-npm"
+    },
+    {
+      skillName: "sql-database",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "aws",
+      fontAwesomeClassname: "fab fa-aws"
+    },
+    {
+      skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
+    },
+    {
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "docker",
+      fontAwesomeClassname: "fab fa-docker"
     }
   ],
   display: false // Set false to hide this section, defaults to true
@@ -110,7 +155,7 @@ const workExperiences = {
       role: "Freelance - Android Developer",
       company: "Logol",
       companylogo: require("./assets/images/logolLogo.png"),
-      date: "May 2020 – Present",
+      date: "May 2020 – Feb 2022",
       descBullets: [
         "Redesign the whole application. All pages in Logol driver application are changed to the new design",
         "Maintaining the application. Every update for the app both bug fixing and business requirement purposes"
@@ -210,6 +255,25 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
+  display: true // Set false to hide this section, defaults to true
+};
+
+// Talks Sections
+
+const talkSection = {
+  title: "TALKS",
+  subtitle: emoji(
+    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
+  ),
+
+  talks: [
+    {
+      title: "Build Actions For Google Assistant",
+      subtitle: "Codelab at GDG DevFest Karachi 2019",
+      slides_url: "https://bit.ly/saadpasta-slides",
+      event_url: "https://www.facebook.com/events/2339906106275053/"
+    }
+  ],
   display: false // Set false to hide this section, defaults to true
 };
 
@@ -224,11 +288,13 @@ export {
   illustration,
   greeting,
   socialMediaLinks,
+  splashScreen,
   skillsSection,
   educationInfo,
   workExperiences,
   openSource,
   bigProjects,
   blogSection,
+  talkSection,
   contactInfo
 };
